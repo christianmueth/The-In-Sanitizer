@@ -1,5 +1,5 @@
 # The-In-Sanitizer
-Portable/Robotic cup cleaning device. Developed with Seamus Graham and Kenny Nguyen at Virginia Tech
+Portable/Robotic cup cleaning device. Developed by Seamus Graham, Christian Mueth, and Kenny Nguyen at Virginia Tech
 
 Link to YouTube video:
 https://www.youtube.com/watch?v=80qrmtLNZe8
